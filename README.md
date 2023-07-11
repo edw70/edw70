@@ -1,6 +1,6 @@
 
 
-<h1> Bonjour je suis Edwige! ravi de vous rencontrer! 👋</h1>
+<h1 align="center" color="red"> Bonjour je suis Edwige! ravi de vous rencontrer! 👋</h1>
 
 <h3>faisons connaissance!</h3>
 
@@ -8,12 +8,16 @@
 <br>
 <h3> Language et outils utilisés !!! </h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="15%" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html" width="15%" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="java script" width="15%"/>
-                              
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="10%" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html" width="10%" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="10%" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="saas" width="10%" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="10%" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="woedpress" width="10%" />
+                                 
+                                                 
           
-            
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="java script" width="10%"/>            
           
             
           
