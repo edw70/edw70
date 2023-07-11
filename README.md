@@ -1,12 +1,12 @@
 
 
-                        # Bonjour je suis Edwige! ravi de vous rencontrer! 👋
+                        <h1> Bonjour je suis Edwige! ravi de vous rencontrer! 👋</h1>
 
-                        ### faisons connaissance!
+                        <h3>faisons connaissance!</h3>
 
 <p> Dans le but d'une reconversion professionnelle je suis actuellement en formation développeur web et web mobile.</p>
 <br>
-                        ### Language et outils utilisés !!!
+                        <h3> Language et outils utilisés !!! </h3>
 
             
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" witdh="25%"/>
