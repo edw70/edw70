@@ -1,5 +1,3 @@
-
-
 <h1 align="center" > Bonjour je suis Edwige! ravi de vous rencontrer! 👋</h1>
 
 <h3>faisons connaissance!</h3>
@@ -38,3 +36,9 @@
 
 <p align="center" > Aimant tout ce qui touche à l'art j'aime la technologie qui me permet d'allier mes diverses passions.</p>
 
+
+<img align="left" src="https://github.com/edw70/edw70/assets/133671255/a9aee0c8-499e-48c6-8ae2-2623e0f92ebd" width="15%"/> 
+
+
+
+<img align="right" src="https://github.com/edw70/edw70/assets/133671255/95a0a8ba-14e1-40d5-8566-a683bc18053e" width="15%"/>
