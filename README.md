@@ -36,4 +36,5 @@
 
 </div>
 
-<p> Aimant tout ce qui touche à l'art j'aime la technologie qui me permet d'allier mes diverses passions.</p>
+<p align="center" > Aimant tout ce qui touche à l'art j'aime la technologie qui me permet d'allier mes diverses passions.</p>
+
